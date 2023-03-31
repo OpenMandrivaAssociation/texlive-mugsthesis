@@ -1,6 +1,6 @@
 Name:		texlive-mugsthesis
 Version:	64259
-Release:	1
+Release:	2
 Summary:	Thesis class complying with Marquette University Graduate School requirements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mugsthesis
