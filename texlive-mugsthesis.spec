@@ -3,7 +3,7 @@ Version:	64259
 Release:	2
 Summary:	Thesis class complying with Marquette University Graduate School requirements
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mugsthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mugsthesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mugsthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mugsthesis.doc.r%{version}.tar.xz
